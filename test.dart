@@ -1,3 +1,3 @@
 class test {}
 
-class B {}
+class C {}
